@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on cybersecurity implementation projects.<br>👯 I'm looking to collaborate on Endpoint/Cloud/Data Security, Identity & Access Control, AI/ML.<br>🤝 I'm looking for help with Threat hunting and modeling.<br>🌱 I'm currently learning python programming and Penetration testing.<br>💬 Ask me about defensive cybersecurity tools and techniques.<br>⚡ Like Gaming and Thriller Movies.
+🔭 I'm currently working on cybersecurity implementation projects.<br>👯 I'm looking to collaborate on Endpoint/Cloud/Data Security, Identity & Access Control, AI/ML.<br>🤝 I'm looking for help with Threat hunting and modeling.<br>🌱 I'm currently learning python programming and Penetration testing.<br>💬 Ask me about defensive cybersecurity tools and techniques.<br>⚡ Like Gaming, Swimming, Documentaries and Sci-Fi/Mystery Movies.
 
 
 # 💻 Tech Stack:
